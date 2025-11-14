@@ -47,7 +47,8 @@ _Search screen with gradient background and logo._
 
 _Nutrition table and activity suggestions for a searched food (e.g., omelette)._
 
-![Results page](screenshots/results.png)
+![Results page](screenshots/results1.png)
+![](screenshots/results2.png)
 
 ## Installation & Setup
 
